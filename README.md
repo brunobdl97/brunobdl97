@@ -1,7 +1,7 @@
 ## Hi there, I'm Bruno Lima,  👋
-- 🌱 Actually I’m diving deep in Nest.js and Golang;
+- 🌱 Actually I’m diving deep in Infra, AWS cloud and Observability;
 - 💬 Ask me anything about web development, it would be a pleasure to share and learn with you;
-- 🎒 Main Tools: PhpStorm, Docker, Goland and GitHub;
+- 🎒 Favorite Tools: JetBrains IDEs, Docker, Kubernetes and GitHub;
 
 <p align="center">
   <a href="https://skillicons.dev">
